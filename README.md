@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjung99)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjung99)](https://solved.ac/limjung99/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjung99&layout=compact&theme=dark)
 
