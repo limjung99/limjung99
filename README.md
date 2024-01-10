@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjung99)](https://solved.ac/limjung99/)
 
 Python for application and C++ for Network programming.  
-Currently , I'm learning "Go"  
+Currently , I'm learning "Go","JAVA"
 Love to traveling , coding , gaming
 
 ### Favorites
