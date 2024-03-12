@@ -23,9 +23,10 @@ Love to traveling , coding , gaming
 
 ### Favorites
 <p>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 </p>
 
 
