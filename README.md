@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjung99)](https://solved.ac/limjung99/)
 
 * Interested in ...
-* Cloud computing, Linux, Virtulization, Network, Cyber Security
+  * Cloud computing, Linux, Virtulization, Network, Cyber Security
 * Favorite and Strong languages ...
-* Python and Linux Systems
+  * Python and Linux Systems
 * Knowlegeable ...
-* Java, C/C++, Go 
+  * Java, C/C++, Go 
 
 
 
