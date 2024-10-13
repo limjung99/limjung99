@@ -1,5 +1,4 @@
-### Hello 👋 I'm Majoring in Computer Engineering.
-
+### Hello👋 
 <!--
 **limjung99/limjung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
